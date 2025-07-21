@@ -3,7 +3,7 @@ import pandas as pd
 from openpyxl import load_workbook
 
 # Path to the Excel file
-excel_path = "20250719_172622.xlsx"
+excel_path = "data (1).xlsx"
 
 st.title("Customer Data Entry Portal")
 
